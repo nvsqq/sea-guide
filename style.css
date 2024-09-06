@@ -1,0 +1,218 @@
+*{
+    margin: 0;
+    padding: 0;
+} 
+
+.gid_logo{
+    margin: 0;
+}
+
+.main{
+    background: url("bgd.jpg") no-repeat center center / cover;
+    height: 100vh;
+    padding-top: 90px;
+    text-align: center;
+}
+
+.logo{
+    color: #0bdefc;
+    font-size: 22px;
+    margin-bottom: 150px;
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.Belgorod{
+    color: #000000;
+    font-weight: 900;
+    font-style: 15px;
+    background-color: #fff;
+    width: 226px;
+    margin-bottom: 24px;
+    border-radius: 78px;
+    padding: 8px 17px;
+    text-transform: uppercase;
+}
+
+.title{
+    color: #fff;
+    font-size: 60px;
+    font-weight: 900;
+    text-transform: uppercase;
+    margin-bottom: 24px;
+}
+
+.text{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    margin-right: 24px;
+}
+
+.link{
+    color: #fff;
+    background-color: #FF7E36;
+    padding: 18px 52px;
+    border-radius: 119px;
+    margin: 24px;
+    font-size: 16px;
+    font-weight: 900;
+    text-decoration: none;
+
+}
+
+
+.logo_2{
+    margin-top: 155px;
+    text-transform: uppercase;
+    font-weight: 900;
+    text-align: center
+}
+
+.marhryt{
+    padding-top: 50px;
+    text-transform: uppercase;
+    margin-top: 35px;
+    font-size: 15px;
+    color: #789AA0;
+}
+
+.opisanie{
+    padding-top: 29px;
+    font-size: 11px;
+    color: #304041;
+    text-transform: uppercase;
+}
+
+.opis_progykki{
+    padding-top: 36px;
+    font-size: 15px;
+    color: #304041;
+    bottom: 111px;
+}
+
+.info_2{
+    background-color: #EBD4C7;
+    margin:  100px 697px 100px 230px;
+    padding:  10px 30px 229px 73px;
+    align-items: center;
+}
+
+.image{
+    width: 476px;
+    height: 658px;
+    text-align: center;
+    margin-top: 98px;
+    float: right;
+    margin-right: 230px;
+}
+
+.rar{
+    padding: 10px; 
+    color: #789AA0 
+}
+
+.batton{
+    color: #FF7E36;
+    background-color: #ffffff;
+    font-size: 16px;
+    font-weight: 900;
+    padding: 17px 49px;
+    border-radius: 94px;
+    border-style: solid;
+    border-width: 0.1px;
+    border-color: #FF7E36;
+    text-decoration: none;
+    margin:  619px;
+}
+
+.last_text{
+    text-transform: uppercase;
+    margin-top: 146px;
+    text-align: center;
+}
+
+.img{
+    width: 787px;
+    height: 626px;
+    float: right;
+    margin-top: 100px;
+}
+
+.last_infa{
+    margin: 250px 176px 326px 230px;
+
+
+}
+
+.tire{
+    width: 64px; 
+    height: 7px; 
+    background-color: #8B4513;
+    border-radius: 100px;
+    
+}
+
+
+.goroda{
+    padding: 20px;
+}
+
+.platforms{
+    margin-top: 5px;
+}
+
+
+.tire_2{
+    width: 64px; 
+    height: 7px; 
+    background-color: #8B4513;
+    border-radius: 100px;
+    
+}
+
+.marhryti{
+    padding: 20px;
+}
+
+.marhryti_na_vkys{
+    margin-top: 5px;
+}
+
+
+.tire_3{
+    width: 64px; 
+    height: 7px; 
+    background-color: #8B4513;
+    border-radius: 100px;
+    
+}
+
+
+
+.gorodov_100{
+    margin-top: 5px;
+}
+
+.last_infa{
+    font-size: 20px; 
+}
+
+.footer{
+    margin: 100px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px; 
+    font-size: 16px; 
+    color: #7F8C8D; 
+    padding: 20px;
+}
